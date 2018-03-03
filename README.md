@@ -16,7 +16,7 @@ Set of vector logos for the Lakota YMCA swim team. Vector images are infinitely 
 ![Full Color Stingray](/stingrayFullColor.svg?sanitize=true)
 
 ### Monotone Stingrays
-![Monotone Stingray](/stingrayMonotone.svg?rsanitizeaw=true)
+![Monotone Stingray](/stingrayMonotone.svg?sanitize=true)
 
 ## FYI 
 None of these logos were originated by me. I have just converted them to vector formats for people to use. I claim no rights to these images. I also do not claim any expertise in graphic design. I simply have some understanding of how vector based images, due to my work as a software developer.
