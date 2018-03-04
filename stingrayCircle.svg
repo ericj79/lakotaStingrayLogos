@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg24966"
-   width="1424.4384"
-   height="1424.4384"
+   width="1428.4384"
+   height="1428.4384"
    preserveAspectRatio="xMidYMid meet"
    version="1.0"
-   viewBox="0 0 14244.384 14244.384"
+   viewBox="0 0 14284.384 14284.384"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="stingrayCircle.svg">
   <sodipodi:namedview
@@ -26,8 +26,8 @@
      pagecolor="#ffffff"
      showgrid="false"
      inkscape:current-layer="layer1"
-     inkscape:cx="621.484"
-     inkscape:cy="736.02987"
+     inkscape:cx="353.71916"
+     inkscape:cy="859.61398"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-height="1001"
@@ -59,7 +59,7 @@
      inkscape:groupmode="layer"
      inkscape:label="stingray"
      style="display:inline"
-     transform="translate(1264.8042,3674.177)">
+     transform="translate(1284.8042,3694.177)">
     <a
        id="a468">
       <g
@@ -217,19 +217,19 @@
        cy="3448.0151"
        r="5554.8408" />
     <circle
-       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:180;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:180.00000573;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path34-7"
        cx="5857.3877"
        cy="3448.0149"
        r="7032.1919" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:1466.66671356px;line-height:3;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:1466.66674805px;line-height:3;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10"
        id="text4547"
        x="1300"><textPath
          xlink:href="#path4549"
          id="textPath4551"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:1466.66671356px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';letter-spacing:80px;stroke-width:10;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;">LAKOTA YMCA</textPath></text>
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:1466.66674805px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:80px;writing-mode:lr-tb;text-anchor:start;stroke-width:10">LAKOTA YMCA</textPath></text>
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:11.27079773;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4549"
@@ -240,7 +240,7 @@
        sodipodi:ry="5721.4189"
        sodipodi:start="3.6041049"
        sodipodi:end="3.3370695"
-       d="M 737.10108,895.13274 A 5721.4189,5721.4189 0 0 1 8063.0224,-1831.1725 5721.4189,5721.4189 0 0 1 11271.961,5296.5602 5721.4189,5721.4189 0 0 1 4374.1721,8973.837 5721.4189,5721.4189 0 0 1 244.9401,2336.7212"
+       d="M 737.10108,895.13274 A 5721.4189,5721.4189 0 0 1 8063.0223,-1831.1725 5721.4189,5721.4189 0 0 1 11271.961,5296.5601 5721.4189,5721.4189 0 0 1 4374.1722,8973.837 5721.4189,5721.4189 0 0 1 244.94006,2336.7214"
        sodipodi:open="true" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:19.23078918;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -257,10 +257,10 @@
        transform="scale(1,-1)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:bold;font-size:1333.3333759px;line-height:1.25;font-family:Arial;letter-spacing:0.20000001px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;-inkscape-font-specification:'Arial, Bold';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1333.33337402px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.2px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10"
        id="text4558"><textPath
          xlink:href="#path4554"
          id="textPath4560"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1400.00004473px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:75.0000024px;writing-mode:lr;text-anchor:start;stroke-width:10">STINGRAYS SWIMMING</textPath></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1400px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:75px;writing-mode:lr-tb;text-anchor:start;stroke-width:10">STINGRAYS SWIMMING</textPath></text>
   </g>
 </svg>
